@@ -2,8 +2,10 @@
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
 
-![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kl4rkx&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)
-#
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&column=10&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh" alt="𝚝𝚛𝚘𝚙𝚑𝚢" />
+</p>
+
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=kl4rkx&style=flat&color=blue"/> •   
