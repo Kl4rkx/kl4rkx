@@ -1,3 +1,4 @@
+<!-- Título principal del perfil -->
 <h1 align="center">
   𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
@@ -7,7 +8,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=flat&no-frame=true&margin-w=15" alt="Achievements" />
   </a>
 </p>
-
 
 <p align="center">
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=kl4rkx&style=flat&color=blue"/> •   
