@@ -3,12 +3,12 @@
   👋 𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
 </h1>
 
-<!-- Título principal del perfil 
+Título principal del perfil 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=flat&no-frame=true&margin-w=15" alt="Achievements" />
   </a>
-</p>-->
+</p>
 
 <p>
   <img alt = "profile views" src="https://komarev.com/ghpvc/?username=kl4rkx&style=flat&color=blue"/> •   
