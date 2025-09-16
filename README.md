@@ -16,8 +16,6 @@
   <a href="https://github.com/sponsors/kl4rkx"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
 </p>
 
-[![linkedin](https://linkedin-github-readme.onrender.com/api/render/David%20Castillo/Técnico%20Informático/Estudiante/Grado%20Superior/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4E03AQG4NXhEOd8Uvw%2Fprofile-displayphoto-scale_200_200%2FB4EZeO9ocFHcAc-%2F0%2F1750450211133%3Fe%3D1755734400%26v%3Dbeta%26t%3DQDR3xY6unEcG58FyjdLa_P6y0Q2Cv8EVXYkklZMDdPo)](https://www.linkedin.com/in/david-castillo-carmona-298835309/)
-
 #
 
 <h3>🛠️ Languages and Tools:</h3>
