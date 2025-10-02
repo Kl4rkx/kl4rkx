@@ -9,21 +9,25 @@ Se usa HTML para mayor control visual en GitHub.
   <!-- 
   Trofeos de GitHub: Muestra logros y "trofeos" visuales de tu actividad en GitHub
   usando un generador externo (github-profile-trophy).
-  AHORA NO CLICKEABLE
   -->
-  <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=flat&no-frame=true&margin-w=15" alt="Achievements" /><br><br>
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=flat&no-frame=true&margin-w=15" alt="Achievements" />
+  </a><br><br>
+
   <!-- 
-  Badge de LinkedIn: Imagen que muestra tu perfil profesional, ya no es clickeable.
+  Badge de LinkedIn: Imagen que al hacer clic te lleva a tu perfil profesional de LinkedIn.
+  Ideal para networking y mostrar tu presencia profesional.
   -->
-  <img src="https://github.com/user-attachments/assets/6828491d-9ef6-485e-8f03-2c4146cac43d" alt="LinkedIn Badge" width="310"/><br><br>
+  <a href="https://es.linkedin.com/in/david-castillo-carmona-298835309" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6828491d-9ef6-485e-8f03-2c4146cac43d" alt="LinkedIn Badge" width="310"/>
+  </a><br><br>
 
   <!-- 
   Sección de estadísticas rápidas:
   - Vistas al perfil (komarev).
   - Seguidores en GitHub.
   - Total de estrellas recibidas en tus repos.
-  - Botón de patrocinio (Sponsor) en GitHub (este sigue siendo clickeable porque es útil para que puedan patrocinarte, si quieres puedes quitar el <a> también).
+  - Botón de patrocinio (Sponsor) en GitHub.
   -->
   <p>
     <img alt="profile views" src="https://komarev.com/ghpvc/?username=kl4rkx&style=flat&color=blue"/> •   
