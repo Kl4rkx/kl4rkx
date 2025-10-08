@@ -8,11 +8,10 @@ Se usa HTML para mayor control visual en GitHub.
 
   <!-- 
   Trofeos de GitHub: Muestra logros y "trofeos" visuales de tu actividad en GitHub
-  usando un generador externo (github-profile-trophy).
-  -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=flat&no-frame=true&margin-w=15" alt="Achievements" />
-  </a><br><br>
+  usando un generador externo (github-profile-trophy).  --> 
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=darkhub" alt="Achievements" />
+  <br><br>
 
   <!-- 
   Badge de LinkedIn: Imagen que al hacer clic te lleva a tu perfil profesional de LinkedIn.
