@@ -49,6 +49,12 @@
   <img src="https://github-profile-trophy.vercel.app/?username=kl4rkx&theme=onedark&title=-Reviews&no-frame=true&column=7&margin-w=15" alt="trophy" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake.svg">
+</picture>
+
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=kl4rkx&theme=react-dark" alt="Github activity graph" />
@@ -62,12 +68,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kl4rkx&theme=github_dark)
   
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake.svg">
-</picture>
 
 <div align=center>
 
