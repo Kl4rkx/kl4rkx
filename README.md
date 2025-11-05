@@ -1,7 +1,6 @@
 <div align="center">
   <img width=100% src="https://capsule-render.vercel.app/api?type=transparent&height=150&text=David%20Castillo&fontSize=90&fontColor=00D9FF&desc=Cybersecurity%20%7C%20Web%20Development%20%7C%20SOC%20Analyst&descSize=20&descAlignY=75&animation=blinking" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile+👋;Let's+build+something+secure+together!+🔐" alt="Welcome" /> 
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=IT+Systems+Specialist;Web+Development+Student;Cybersecurity+Trainee;Future+SOC+Analyst;Threat+Detection+%26+Secure+Design" alt="Typing SVG" /></a>
   
   <br>
@@ -64,6 +63,11 @@
   
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake.svg">
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Kl4rkx/Kl4rkx/output/github-snake.svg">
+</picture>
 
 <div align=center>
 
